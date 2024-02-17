@@ -1,3 +1,8 @@
+#About keyscript:
+- designed for simplicity with a syntax similar to C.
+- It features a static type system and is compiled to WebAssembly functions that can run on every browser.
+- These functions, when called from JavaScript, offer superior performance, especially for computation-intensive tasks.
+
 # How to get started with keyscript:
 - Check out the Keyscript website for repo, issues, docs, updates and more: `https://keyscript.org`
 - Go to the GitHub repo to install keyscript: `https://github.com/keyscript/keyscript`
