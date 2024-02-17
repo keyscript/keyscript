@@ -1,4 +1,4 @@
-#About keyscript:
+# About keyscript:
 - designed for simplicity with a syntax similar to C.
 - It features a static type system and is compiled to WebAssembly functions that can run on every browser.
 - These functions, when called from JavaScript, offer superior performance, especially for computation-intensive tasks.
